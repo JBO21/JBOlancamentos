@@ -1,0 +1,15 @@
+D:\Localiza_Labs\JBO_Lancamentos\bin\Debug\net6.0\JBO_Lancamentos.exe
+D:\Localiza_Labs\JBO_Lancamentos\bin\Debug\net6.0\JBO_Lancamentos.deps.json
+D:\Localiza_Labs\JBO_Lancamentos\bin\Debug\net6.0\JBO_Lancamentos.runtimeconfig.json
+D:\Localiza_Labs\JBO_Lancamentos\bin\Debug\net6.0\JBO_Lancamentos.dll
+D:\Localiza_Labs\JBO_Lancamentos\bin\Debug\net6.0\ref\JBO_Lancamentos.dll
+D:\Localiza_Labs\JBO_Lancamentos\bin\Debug\net6.0\JBO_Lancamentos.pdb
+D:\Localiza_Labs\JBO_Lancamentos\obj\Debug\net6.0\JBO_Lancamentos.csproj.AssemblyReference.cache
+D:\Localiza_Labs\JBO_Lancamentos\obj\Debug\net6.0\JBO_Lancamentos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Localiza_Labs\JBO_Lancamentos\obj\Debug\net6.0\JBO_Lancamentos.AssemblyInfoInputs.cache
+D:\Localiza_Labs\JBO_Lancamentos\obj\Debug\net6.0\JBO_Lancamentos.AssemblyInfo.cs
+D:\Localiza_Labs\JBO_Lancamentos\obj\Debug\net6.0\JBO_Lancamentos.csproj.CoreCompileInputs.cache
+D:\Localiza_Labs\JBO_Lancamentos\obj\Debug\net6.0\JBO_Lancamentos.dll
+D:\Localiza_Labs\JBO_Lancamentos\obj\Debug\net6.0\ref\JBO_Lancamentos.dll
+D:\Localiza_Labs\JBO_Lancamentos\obj\Debug\net6.0\JBO_Lancamentos.pdb
+D:\Localiza_Labs\JBO_Lancamentos\obj\Debug\net6.0\JBO_Lancamentos.genruntimeconfig.cache
